@@ -9,7 +9,7 @@ A Machine learning model was trained based on the <super>YOLOv8 Segmentation</su
 The entire project is done in the ROS environment using ROS2 humble on ubuntu 22.04.
 
 <h2> rqt_graph </h2>
-![plot](./niryo/assistant/rqt.jpg)
+![plot](./niryo_assistant/rqt.jpg)
 
 <h2> Acknowledgements </h2>
 This project is a graduation project for my bachelor's degree in Mechatronics at Tishreen University.
