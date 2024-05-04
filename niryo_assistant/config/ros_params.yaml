@@ -1,0 +1,30 @@
+Camera:
+	ros_parameters:
+		workspace_width : 27.2
+		workspace_height: 17.5
+
+		top_left_aruco_id: 0
+		bottom_right_aruco_id: 1
+
+		robot_zero_to_x : 0.313
+		robot_zero_to_y : 0.085
+
+		#Camera
+		video_stream : True
+		camera_source : 1
+		image_path : None
+		weights_path: "/home/jetson/Desktop/best.pt"
+
+		#SSH
+		ssh_username : "niryo"
+		ssh_hostname : "niryo-desktop.local"
+		ssh_password : "robotics"
+
+		ssh_username_aya : "ayoosh"
+		ssh_hostname_aya : "Ayooshs-MacBook-Pro.local"
+		ssh_password_aya : "bebo"
+
+		username : "baherkherbek"
+		host : "raspberrypi.local"
+		pass : "qqq"
+
