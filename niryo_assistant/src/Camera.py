@@ -21,7 +21,7 @@ class Publisher(Node):
 		
 		
 		#Load Model
-		weights = '/home/ayoosh/Desktop/www/best.pt'
+		weights = '/home/Baher/Desktop/www/best.pt'
 		print('Loading Weights')
 		self.detector = ObjectsDetector(weights)
 		print('weights loaded')
