@@ -9,11 +9,9 @@ A Machine learning model was trained based on the <super>YOLOv8 Segmentation</su
 The entire project is done in the ROS environment using ROS2 humble on ubuntu 22.04.
 
 <h2> rqt_graph </h2>
-
 ![rqt](https://github.com/Baher-Kherbek/Niryo-Arm-as-a-dental-surgeon-assistant/assets/103322810/868a8f86-2c41-4b0b-a4b6-6fde3c68bf61)
 
 <h2> Acknowledgements </h2>
-
 gratitide to Manara University for allowing us to use their equipment.
 
 
