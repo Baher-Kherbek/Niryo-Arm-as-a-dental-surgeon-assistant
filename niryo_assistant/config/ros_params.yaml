@@ -20,9 +20,9 @@ Camera:
 		ssh_hostname : "niryo-desktop.local"
 		ssh_password : "robotics"
 
-		ssh_username_aya : "baher"
-		ssh_hostname_aya : "baher-MacBook-Pro.local"
-		ssh_password_aya : "bebo"
+		ssh_username_baher : "baher"
+		ssh_hostname_baher : "baher-MacBook-Pro.local"
+		ssh_password_baher : "112233"
 
 		username : "baherkherbek"
 		host : "raspberrypi.local"
